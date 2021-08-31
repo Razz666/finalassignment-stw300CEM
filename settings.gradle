@@ -1,0 +1,3 @@
+include ':anythingfinderwearos'
+include ':app'
+rootProject.name = "LocationBasedAnythingFinder"
